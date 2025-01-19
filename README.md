@@ -7,9 +7,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto incluye una biblioteca en Java que permite acceder a la API Core v2 de Dropbox, utilizando HTTP. También es compatible con la versión anterior, la API Core v1, aunque este soporte se eliminará en el futuro. 
-
-La biblioteca facilita la integración de Dropbox en aplicaciones Java, permitiendo realizar operaciones como la gestión de archivos, carpetas, autenticación y más, de manera fácil, rápida y segura.
+El objetivo de este proyecto final es desarrollar una API REST segura, utilizando ForoHub, una aplicación construida con Spring Boot que simula el funcionamiento de un foro de ayuda. ForoHub permite gestionar temas, cursos, usuarios y respuestas de manera eficiente, brindando un entorno seguro y controlado para la interacción entre los usuarios en un contexto académico.
 
 
 
